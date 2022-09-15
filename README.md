@@ -6,3 +6,7 @@ Small iOS app for OpenWT appliance process, in Swift.<br />
 It's an Url shortener
 
 https://www.openwt.com/en/
+
+## How to use
+
+Simply download the full project and run it on Xcode
